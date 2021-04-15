@@ -1,7 +1,3 @@
-HUFFMAN ASSIGNMENT: NEW VERSION FOR FALL 2019
-
-STUDENTS SHOULD REPLACE THIS README WITH THEIR OWN
-
 Included Files:
 - bitio.py: Contains the classs BitWriter and BitReader
 - compress.py: Runs the code to compress a file.
